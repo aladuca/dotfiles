@@ -5,4 +5,5 @@
       create: true
       path: xmonad.hs
     ~/.gitconfig: gitconfig
+    ~/.zshrc: zsh/zshrc
 - shell: []
