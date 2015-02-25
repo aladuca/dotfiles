@@ -1,3 +1,8 @@
 - clean: []
-- link: {}
+- link:
+    ~/.xinitrc: xinitrc
+    ~/.xmonad/xmonad.hs:
+      create: true
+      path: xmonad.hs
+    ~/.gitconfig: gitconfig
 - shell: []
