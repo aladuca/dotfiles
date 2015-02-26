@@ -32,3 +32,6 @@ setopt COMPLETE_IN_WORD
 
 # autoload -U colors
 #colors
+
+# Liquid Prompt
+[[ $- = *i* ]] && source ~/version-control/dotfiles/zsh/liquidprompt/liquidprompt
