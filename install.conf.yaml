@@ -6,4 +6,5 @@
       path: xmonad.hs
     ~/.gitconfig: gitconfig
     ~/.zshrc: zsh/zshrc
+    ~/.Xresources: solarized/xresources/solarized
 - shell: []

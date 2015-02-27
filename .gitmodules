@@ -4,3 +4,9 @@
 [submodule "zsh/liquidprompt"]
 	path = zsh/liquidprompt
 	url = https://github.com/nojhan/liquidprompt
+[submodule "xresources"]
+	path = xresources
+	url = https://github.com/solarized/xresources
+[submodule "solarized"]
+	path = solarized
+	url = git://github.com/altercation/solarized.git
