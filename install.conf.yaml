@@ -4,6 +4,9 @@
     ~/.xmonad/xmonad.hs:
       create: true
       path: xmonad.hs
+    ~/.zsh/liquidprompt:
+      create: true
+      path: zsh/liquidprompt
     ~/.gitconfig: gitconfig
     ~/.zshrc: zsh/zshrc
     ~/.Xresources: solarized/xresources/solarized

@@ -34,4 +34,4 @@ setopt COMPLETE_IN_WORD
 #colors
 
 # Liquid Prompt
-[[ $- = *i* ]] && source ~/version-control/dotfiles/zsh/liquidprompt/liquidprompt
+[[ $- = *i* ]] && source ~/.zsh/liquidprompt/liquidprompt
